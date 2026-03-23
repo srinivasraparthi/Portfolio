@@ -277,7 +277,7 @@ certifications: [
                   ? 'bg-gradient-to-br from-blue-600 to-purple-600' 
                   : 'bg-gradient-to-br from-blue-600 to-indigo-600'
               }`}>
-                <span className="text-white font-bold text-lg">AC</span>
+                <span className="text-white font-bold text-lg">RS</span>
               </div>
               <span className={`text-lg font-bold ${
                 darkMode ? 'text-white' : 'text-gray-900'
