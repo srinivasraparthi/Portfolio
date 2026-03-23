@@ -49,8 +49,8 @@ about: {
   details: "I love turning complex problems into simple, elegant solutions. When I'm not coding, you'll find me contributing to open-source projects, writing technical articles, or exploring new technologies.",
   // Add these missing properties:
   specialties: [
-    "PERN Stack Development",
-    "MERN Stack Applications", 
+    "MERN Stack Applications",
+    "PERN Stack Development", 
     "API Design & Development",
     "Database Architecture",
     "Cloud Deployment",
@@ -282,7 +282,7 @@ certifications: [
               <span className={`text-lg font-bold ${
                 darkMode ? 'text-white' : 'text-gray-900'
               }`}>
-                {portfolioData.name.split(' ')[0]}
+                {portfolioData.name.split(' ')[1]}
               </span>
             </div>
 
@@ -1075,7 +1075,7 @@ certifications: [
                     ? 'bg-gradient-to-br from-blue-500 to-purple-600'
                     : 'bg-gradient-to-br from-blue-600 to-indigo-700'
                 }`}>
-                  <span className="text-white font-bold text-lg">AC</span>
+                  <span className="text-white font-bold text-lg">RS</span>
                 </div>
                 <span className={`text-lg font-bold ${
                   darkMode ? 'text-white' : 'text-gray-900'
